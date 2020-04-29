@@ -1,0 +1,38 @@
+GITBUG ERROR REPORT
+
+1. Type of operating system you are using to produce this error:
+
+macOS
+
+
+2. Version of the Java system you are using (java -version).
+
+
+11
+
+
+3. Subdirectory of your Git working directory to use as the current
+   directory when compiling and running your program.
+
+Just the master branch
+
+
+4. EXACT sequence of commands that will cause the error you are seeing,
+   including anything needed to compile and execute the program.
+   It is NOT acceptable to say "any execution of the program fails"; give
+   us a specific one.
+
+I pass all the test in ModelTests.java, but failed on extendSimpleTest1,extendSimpleTest2,
+In puzzleGeneratorTests.java. 
+The error occur when you run the above two test I mentioned.
+
+
+5. What you see when you execute the commands in 4.
+
+In console, I saw:
+
+java.lang.AssertionError: Wrong at (0, 1) 
+Expected :6
+Actual   :0
+
+I found the same error in piazza @335_f3, but I tried what he did to his problem but still I cannot pass. I believe it has to do with connect, connectable, auto connect and FindUniquepredecessor and FindUniqueSuccessor. I double check them all. They performs well when running their corresponding add-hoc test. So I really don't know how to fix it.

@@ -1,0 +1,8 @@
+# try limit
+#* java -ea loa.Main
+limit 3
+dump
+d1-d3
+dump
+auto black
+dump

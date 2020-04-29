@@ -1,0 +1,8 @@
+# dun know what to do here
+#* java -ea loa.Main
+limit 10
+dump
+new
+dump
+auto black
+quit

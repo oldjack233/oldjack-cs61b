@@ -1,0 +1,10 @@
+# try set limit and auto lol
+#* java -ea loa.Main
+limit 2
+dump
+manual white
+a2-c2
+auto black
+dump
+auto white
+dump

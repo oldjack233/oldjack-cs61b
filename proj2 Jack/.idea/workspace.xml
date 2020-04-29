@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c598a4c-790f-4558-9bba-c923fac633b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/About.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/BitMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/BoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/BoardWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/GUIPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/HelpText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/HumanPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/JackMachinePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/MachinePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/NullView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Reporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/TextReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/UnitTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Usage.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/loa/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/ai-v-staff-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/ai-v-staff-1.std" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/ai-v-staff-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/ai-v-staff-2.std" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/ai2-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/ai2-1.std" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/init-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/init-1.std" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/new1-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/new2-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/new3-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/new4-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/new5-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/simplemoves-1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/simplemoves-1.std" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/simplemoves-2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/test-loa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proj2_Jack/testing/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw4/P2Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw4/P2Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw5/Nybbles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5/Nybbles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw5/NybblesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw5/NybblesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/enigma/PermutationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/map/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/map/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab9/ArrayHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab9/ArrayHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab9/ArrayHeapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab9/ArrayHeapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj0/signpost/Place.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/signpost/Place.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2/loa/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2/loa/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj2/testing/simplemoves-2.in" beforeDir="false" afterPath="$PROJECT_DIR$/../proj2/testing/simplemoves-2.in" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aIL13ADW8ZINGEjqn5TURutUAi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c598a4c-790f-4558-9bba-c923fac633b6" name="Default Changelist" comment="" />
+      <created>1586417942255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586417942255</updated>
+      <workItem from="1586417943599" duration="375000" />
+      <workItem from="1586418411397" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="628" y="272" key="NewModule_or_Project.wizard" timestamp="1586418435731">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state x="628" y="272" key="NewModule_or_Project.wizard/49.23.1743.1097@49.23.1743.1097" timestamp="1586418435731" />
+    <state x="504" y="153" key="SettingsEditor" timestamp="1586417974183">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state x="504" y="153" key="SettingsEditor/49.23.1743.1097@49.23.1743.1097" timestamp="1586417974183" />
+    <state x="693" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1586418411332">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state x="693" y="404" key="com.intellij.ide.util.TipDialog/49.23.1743.1097@49.23.1743.1097" timestamp="1586418411332" />
+  </component>
+</project>

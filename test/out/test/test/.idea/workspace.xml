@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b2c1f46-1d05-40ee-aeda-dc3f83bf36e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hw0/hw01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2/image/MatrixUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw2/image/MatrixUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/enigma/PermutationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/enigma/PermutationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YNmUYHXbGn0uGxBoMOzx6iQXyK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AGTestYear.test400" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AGTestYear" />
+      <option name="METHOD_NAME" value="test400" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AGTestYear.test400" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b2c1f46-1d05-40ee-aeda-dc3f83bf36e9" name="Default Changelist" comment="" />
+      <created>1582791442219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582791442219</updated>
+      <workItem from="1582791443822" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="153" key="SettingsEditor" timestamp="1582791492779">
+      <screen x="61" y="23" width="1731" height="1097" />
+    </state>
+    <state x="414" y="153" key="SettingsEditor/61.23.1731.1097@61.23.1731.1097" timestamp="1582791492779" />
+  </component>
+</project>

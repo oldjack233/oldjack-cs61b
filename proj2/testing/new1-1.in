@@ -1,0 +1,10 @@
+# dump again and again
+#* java -ea loa.Main
+dump
+c1-c3
+dump
+d1-b3
+dump
+quit
+
+#*move

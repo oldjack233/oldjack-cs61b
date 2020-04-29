@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09dafd08-8334-4fe6-92fd-bce0d9d0afe8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab12/capers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab12/capers/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aKnVHII1zj7HiRvxg26cZZvPJy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Quicksort">
+    <configuration name="MySortingAlgorithmsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MySortingAlgorithmsTest" />
+      <module name="hw7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quicksort" />
+      <module name="hw7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySortingAlgorithmsTest.jackWantToTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MySortingAlgorithmsTest" />
+      <option name="METHOD_NAME" value="jackWantToTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Quicksort" />
+        <item itemvalue="Application.MySortingAlgorithmsTest" />
+        <item itemvalue="JUnit.MySortingAlgorithmsTest.jackWantToTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09dafd08-8334-4fe6-92fd-bce0d9d0afe8" name="Default Changelist" comment="" />
+      <created>1586493174675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586493174675</updated>
+      <workItem from="1586493182483" duration="10222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="313" key="GridCell.Tab.0.bottom" timestamp="1586550054879">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054879" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/48.23.1744.1097@48.23.1744.1097" timestamp="1586503127258" />
+    <state width="1750" height="313" key="GridCell.Tab.0.center" timestamp="1586550054878">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054878" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center/48.23.1744.1097@48.23.1744.1097" timestamp="1586503127256" />
+    <state width="1750" height="313" key="GridCell.Tab.0.left" timestamp="1586550054873">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054873" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left/48.23.1744.1097@48.23.1744.1097" timestamp="1586503127256" />
+    <state width="1750" height="313" key="GridCell.Tab.0.right" timestamp="1586550054879">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054879" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right/48.23.1744.1097@48.23.1744.1097" timestamp="1586503127257" />
+    <state width="1750" height="313" key="GridCell.Tab.1.bottom" timestamp="1586550054882">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054882" />
+    <state width="1750" height="313" key="GridCell.Tab.1.center" timestamp="1586550054880">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054880" />
+    <state width="1750" height="313" key="GridCell.Tab.1.left" timestamp="1586550054880">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054880" />
+    <state width="1750" height="313" key="GridCell.Tab.1.right" timestamp="1586550054881">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054881" />
+    <state width="1750" height="313" key="GridCell.Tab.2.bottom" timestamp="1586550054884">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.2.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054884" />
+    <state width="1750" height="313" key="GridCell.Tab.2.center" timestamp="1586550054883">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.2.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054883" />
+    <state width="1750" height="313" key="GridCell.Tab.2.left" timestamp="1586550054882">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.2.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054882" />
+    <state width="1750" height="313" key="GridCell.Tab.2.right" timestamp="1586550054883">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="313" key="GridCell.Tab.2.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586550054883" />
+    <state x="508" y="261" key="NewModule_or_Project.wizard" timestamp="1586546168961">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="508" y="261" key="NewModule_or_Project.wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1586546168961" />
+    <state x="384" y="141" key="SettingsEditor" timestamp="1586493423869">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="141" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1586493423869" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MySortingAlgorithmsTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/MySortingAlgorithms.java</url>
+          <line>107</line>
+          <properties class="MySortingAlgorithms.MergeSort" method="sort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
